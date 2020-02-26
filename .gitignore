@@ -1,0 +1,11 @@
+# Node modules
+node_modules
+
+# mp3 files
+sounds/*.mp3
+
+# Env file
+.env
+
+# local Data
+db/words.db

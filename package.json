@@ -1,0 +1,28 @@
+{
+  "name": "skitch-polly-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node inde.jx"
+  },
+  "keywords": [],
+  "author": "Gerardo Gallegos <puxerop@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.625.0",
+    "express": "^4.17.1",
+    "mediaserver": "^0.1.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "env": "0.0.2",
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
