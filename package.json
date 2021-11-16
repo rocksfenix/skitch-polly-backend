@@ -10,7 +10,7 @@
   "author": "Gerardo Gallegos <puxerop@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.625.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "mediaserver": "^0.1.1",
     "nedb": "^1.8.0"
